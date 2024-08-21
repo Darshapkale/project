@@ -1,4 +1,4 @@
-## CHAT MESSENGER IN  Java ##
+## CHAT MESSENGER IN  JAVA ##
 1. This project provide the chatting facility for pear to pear communication.
 2. we use java socket programing to perform the text based chatting.
 3. this application is platform & architecture independent.
