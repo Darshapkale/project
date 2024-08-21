@@ -6,7 +6,7 @@
 
 
 
- ## DATABASE MANAGMENT SYSTEM USING JAVA  ##
+ ## DATABASE MANEGMENT SYSTEM USING JAVA  ##
 1. this project is created to replicate (copy) all the feature of data base manegment system.
 2. In this project we consider one specific data as an example.
 3. we provide the implimentation of all the queries and it will perform the operation on that data base.
